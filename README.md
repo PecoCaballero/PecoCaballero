@@ -7,12 +7,6 @@
 
 ## I'm a Frontend Developer and might not sleep through some days to finish a out-of-nowhere project ([latest](https://github.com/PecoCaballero/mine-server-bot))
 
-<br>
-
----
-
-<br>
-
 ### Currently:
 
 - Living in Brazil - SP 🇧🇷
@@ -20,11 +14,7 @@
 - Working on a Flutter App for sharing recipes with your usual text groups
 - Learning Spanish 🤓
 
-<br>
-
 ---
-
-<br>
 
 ### Skills:
 
@@ -38,11 +28,8 @@
 - ![Learning Spanish](https://img.shields.io/badge/Spanish-Learning-informational)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PecoCaballero&count_private=true&hide=php) -->
-<br>
 
 ---
-
-<br>
 
 <a href="https://github.com/PecoCaballero?tab=repositories">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PecoCaballero&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />

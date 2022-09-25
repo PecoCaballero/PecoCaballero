@@ -18,7 +18,7 @@
 
 ### Skills:
 
-- ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-orange.svg?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-blue.svg?style=flat&logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/CSS-blue.svg?style=flat&logo=css3&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-white.svg?style=flat&logo=git&logoColor=black)
 - ![ReactJS](https://img.shields.io/badge/ReactJS-blue.svg?style=flat&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-grey.svg?style=flat&logo=react&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/NodeJS-43853D.svg?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D.svg?style=flat&logo=mongodb&logoColor=white)

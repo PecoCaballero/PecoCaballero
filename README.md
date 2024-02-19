@@ -11,7 +11,7 @@
 
 - Living in Brazil - SP 🇧🇷
 - Working for ![Nisum Icon](https://www.nisum.com/hubfs/Nisum-Favicon-16x16-1.png) [Nisum Latam](https://www.nisum.com/es/inicio)
-- Working on a Flutter App for sharing recipes with your usual text groups
+- Working on a React Native App for sharing recipes with your usual text groups
 - Learning Spanish 🤓
 
 ---

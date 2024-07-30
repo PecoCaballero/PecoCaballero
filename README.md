@@ -10,9 +10,8 @@
 ### Currently:
 
 - Living in Brazil - SP 🇧🇷
-- Working for ![Nisum Icon](https://www.nisum.com/hubfs/Nisum-Favicon-16x16-1.png) [Nisum Latam](https://www.nisum.com/es/inicio)
+- Working for at [NOAH](https://noah.com/)
 - Working on a React Native App for sharing recipes with your usual text groups
-- Learning Spanish 🤓
 
 ---
 
@@ -25,7 +24,7 @@
 - ![Flutter](https://img.shields.io/badge/Flutter-white.svg?style=flat&logo=flutter&logoColor=blue)
 - ![Fluent English](https://img.shields.io/badge/English-Fluent-success)
 - ![Native Portuguese](https://img.shields.io/badge/Portuguese-Native-blueviolet)
-- ![Learning Spanish](https://img.shields.io/badge/Spanish-Learning-informational)
+- ![Beginner Spanish](https://img.shields.io/badge/Spanish-Beginner-informational)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PecoCaballero&count_private=true&hide=php) -->
 

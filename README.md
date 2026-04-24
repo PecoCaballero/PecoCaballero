@@ -10,8 +10,7 @@
 ### Currently:
 
 - Living in Brazil - SP 🇧🇷
-- Working for at [NOAH](https://noah.com/)
-- Working on a React Native App for sharing recipes with your usual text groups
+- Working on a React app for sharing recipes with your usual text groups
 
 ---
 

@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="./images/messagif-loop.gif" alt="Hi! You can call me Peco"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Hi!+You+can+call+me+Peco" alt="Hi! You can call me Peco"/>
 </div>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007bff&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%2F+React+Native;Node+%2B+MongoDB;Building+stuff+that+shares+recipes" alt="typing svg"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%2F+React+Native;Node+%2B+MongoDB;Building+stuff+that+shares+recipes" alt="typing svg"/>
     </a>
 </h1>
 
@@ -28,16 +28,12 @@ Contact    : LinkedIn · Email
 ## ./stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PecoCaballero&show_icons=true&theme=tokyonight&hide_border=true" alt="Peco's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PecoCaballero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Peco's top languages"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=PecoCaballero&show_icons=true&theme=tokyonight&hide_border=true" alt="Peco's GitHub stats"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PecoCaballero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Peco's top languages"/>
 </div>
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=PecoCaballero&theme=tokyonight&hide_border=true" alt="Peco's streak"/>
-</div>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PecoCaballero&theme=tokyonight&column=7&no-frame=true" alt="Peco's trophies"/>
 </div>
 
 <p align="center">
